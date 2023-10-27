@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+Hangman is a game in which you guess a variety of letters until you lose or guess the correct hidden word. Typically player that chooses the word to be guessed has to make sure it is difficult to ensure that they win, in place of this player there is a list of five possible choices selected at random from a selection of my favourite fruits! The person who will be doing the guessing is you!
+
 ## Milestone 1: Set up the environment 
 
 ### Set up Github
