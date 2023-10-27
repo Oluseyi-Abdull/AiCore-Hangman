@@ -14,6 +14,7 @@ my project work is being completed in a satisfactory manner.
 
 In this step the variables for the game of hangman were set up and the random local package was imported additionally
 a list of possible words to be guessed were addded!
+Some functions have been created to check input characters to ensure they are alphabetical and that they are valid guesses. 
 
 ## Milestone 3: Check if the guessed character is in the word
 
