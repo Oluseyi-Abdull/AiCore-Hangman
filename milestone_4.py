@@ -28,3 +28,14 @@ class Hangman:
         print(f"{self.list_visual[self.num_lives]}")
         print(f"You have {self.num_lives} lives left.")
     self.list_letters.append(letter)
+    
+  def ask_for_input(self):#Method requesting the input
+      while True:
+          guess = input("Enter a single letter guess: ")
+          if len(guess) != 1 and not guess.isalpha():
+              print("Invalid letter. Please, enter a single alphabetical character.")
+          elif letter in self.list_letters:
+            print(f"{letter} was already tried")
+          else:
+              self.list_of_guesses.append(guess)
+              self.check_guess(guess)
