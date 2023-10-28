@@ -11,7 +11,7 @@ Hangman is a game in which you guess a variety of letters until you lose or gues
 
 This project aims to deveop my knowledge in python and to allow me to express my knowledge using OOP principles. The project contains `One class` and will include several methods which will be listed below when the project is completed.
 
-The program was created with and is executed by python 3 and can be run using the `CLI` using ==python3 "Finished filename== as a command.
+The program was created with and is executed by python 3 and can be run using the `CLI` using `python3 "Finished filename"` as a command.
 
 ## Milestone 1: Set up the environment 
 
