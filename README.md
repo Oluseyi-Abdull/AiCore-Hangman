@@ -4,9 +4,9 @@
 
 Hangman is a game in which you guess a variety of letters until you lose or guess the correct hidden word. Typically player that chooses the word to be guessed has to make sure it is difficult to ensure that they win, in place of this player there is a list of five possible choices selected at random from a selection of my favourite fruits! The person who will be doing the guessing is you!
 
-This project aims to deveop my knowledge in python and to allow me to express my knowledge using OOP principles. The project contains ==One class== and will include several methods which will be listed below when the project is completed.
+This project aims to deveop my knowledge in python and to allow me to express my knowledge using OOP principles. The project contains `#One class` and will include several methods which will be listed below when the project is completed.
 
-The program was created with and is executed by python 3 and can be run using the ==CLI== using ==python3 "Finished filename== as a command.
+The program was created with and is executed by python 3 and can be run using the `#CLI` using ==python3 "Finished filename== as a command.
 
 ## Explain the steps the user takes after initialisation. Include Screenshots
 
@@ -36,13 +36,18 @@ Now it is time to introduce option oriented concepts into the program, and add i
 
 ## Milestone 5: Putting it all together
 
-Finally code the Logic of the game, and document these steps
+Finally code the Logic of the game, and document these steps with the OOP principles learnt from the Data Engineering Learning pathway with [Ai Core](https://www.theaicore.com/skills-bootcamp/landing). 
+
+## Add Screen grabs to all of the milestones where applicable.
+>[!IMPORTANT]
+>Project not yet finalised
 
 ## How to run the project 
 Ensure Python 3.11 is installed 
 
 ## Licence 
-MIT 
+>[!NOTE]
+>MIT 
 
 ## Extra features
 
