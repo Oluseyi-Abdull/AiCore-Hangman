@@ -1,3 +1,6 @@
+# Enjoy
+The project is now complete and will recieve no further updates unless for additions to the documentation.
+
 # AiCore-Hangman
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -40,16 +43,22 @@ Finally code the Logic of the game, and document these steps with the OOP princi
 
 ## Add Screen grabs to all of the milestones where applicable.
 >[!NOTE]
->Project not yet finalised
+>Project is now complete 
 
 ## How to run the project 
-Ensure Python 3.11 is installed 
+1.Ensure Python 3.11 is installed 
+
+2.Download 
+
+3.Run using either the `Python IDLE` or the `CLI`.  
+
+#### Python IDLE
+-If yo wish to run this using the Python IDLE. open the document using the Python IDLE and run using the F5 key once the "Hangman.py" file is open. After this another window should pop up in which the game will commence.
+
+#### CLI 
+-Open the Command line interface, after it is open type `_"python3 "_` and then the filepath to the downloaded `"Hangman.py"` document.
+Once this is done then you will be able to play the game in the `CLI`
 
 ## Licence 
 >[!IMPORTANT]
 >MIT 
-
-## Extra features
-
-- Hangman Ascii
-- Include Ascii GUI Messages??
