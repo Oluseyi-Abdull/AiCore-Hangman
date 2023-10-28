@@ -39,14 +39,14 @@ Now it is time to introduce option oriented concepts into the program, and add i
 Finally code the Logic of the game, and document these steps with the OOP principles learnt from the Data Engineering Learning pathway with [Ai Core](https://www.theaicore.com/skills-bootcamp/landing). 
 
 ## Add Screen grabs to all of the milestones where applicable.
->[!IMPORTANT]
+>[!NOTE]
 >Project not yet finalised
 
 ## How to run the project 
 Ensure Python 3.11 is installed 
 
 ## Licence 
->[!NOTE]
+>[!IMPORTANT]
 >MIT 
 
 ## Extra features
