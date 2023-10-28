@@ -9,15 +9,9 @@ The project is now complete and will recieve no further updates unless for addit
 
 Hangman is a game in which you guess a variety of letters until you lose or guess the correct hidden word. Typically player that chooses the word to be guessed has to make sure it is difficult to ensure that they win, in place of this player there is a list of five possible choices selected at random from a selection of my favourite fruits! The person who will be doing the guessing is you!
 
-This project aims to deveop my knowledge in python and to allow me to express my knowledge using OOP principles. The project contains `#One class` and will include several methods which will be listed below when the project is completed.
+This project aims to deveop my knowledge in python and to allow me to express my knowledge using OOP principles. The project contains `One class` and will include several methods which will be listed below when the project is completed.
 
-The program was created with and is executed by python 3 and can be run using the `#CLI` using ==python3 "Finished filename== as a command.
-
-## Explain the steps the user takes after initialisation. Include Screenshots
-
--Step_1
--Step_2
--Step_3
+The program was created with and is executed by python 3 and can be run using the `CLI` using ==python3 "Finished filename== as a command.
 
 ## Milestone 1: Set up the environment 
 
@@ -58,7 +52,7 @@ Finally code the Logic of the game, and document these steps with the OOP princi
 -If yo wish to run this using the Python IDLE. open the document using the Python IDLE and run using the F5 key once the "Hangman.py" file is open. After this another window should pop up in which the game will commence.
 
 #### CLI 
--Open the Command line interface, after it is open type `_"python3 "_` and then the filepath to the downloaded `"Hangman.py"` document.
+-Open the Command line interface, after it is open type _`"python3 "`_ and then the filepath to the downloaded _`"Hangman.py"`_ document.
 Once this is done then you will be able to play the game in the `CLI`
 
 ## Licence 
